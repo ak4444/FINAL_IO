@@ -1,0 +1,7 @@
+Logistic Regression Accuracy : 0.8446499525299764
+Logistic Regression Time taken : 1.7228646278381348
+Decision Tree Accuracy : 0.7891627694363375
+Decision Tree Time taken : 3.115138053894043
+Random Tree Accuracy : 0.8474981539435282
+Random Tree Time taken : 4.383326530456543
+Analysis shows both Logical regressor and Random forest regressor have accuracy of 84%. But performance wise Logical regressor is better since it took only 1.5 Seconds.
